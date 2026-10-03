@@ -7,4 +7,4 @@ This project uses synthetic data representing a vehicle setup study at the India
 
 An unconstrained optimization is first performed to minimize predicted Sector 3 time within the tested setup bounds. A constrained optimization is then performed with the additional requirement that predicted top speed remains at or above 284 km/h. The solutions are also checked using a grid-based search and a penalty-function approach.
 
-The final candidate was chosen based on the trade-off between sector 3 lap time and top speed rather than simply selecting the setup with the fastest predicted sector time. The optimization results and independent grid search were compared to make sure the selected setup was consistent and feasible.
+The final candidate wing_angle_deg = 9.541827	and rear_ride_height_mm = 38.327667 was chosen based on the trade-off between sector 3 lap time and top speed rather than simply selecting the setup with the fastest predicted sector time. The optimization results and independent grid search were compared to make sure the selected setup was consistent and feasible.
