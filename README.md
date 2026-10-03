@@ -1,6 +1,7 @@
 # Project 2: Predictive Modeling and Engineering Optimization #
-Name: Maico Gouveia de Oliveira Freitas
-Course: MSPE 49600 – Data Analytics for Motorsports
+Name: Maico Freitas
+
+_MSPE 49600 – Data Analytics for Motorsports_
 
 This project uses synthetic data representing a vehicle setup study at the Indianapolis Motor Speedway road course. It examines how rear-wing angle and rear ride height affect Sector 3 time and top speed using quadratic surrogate models.
 
